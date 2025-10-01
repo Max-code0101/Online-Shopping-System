@@ -1,0 +1,14 @@
+<date>,<userid>,<shippingmethod>,<fee>,<subtotal_all_books>,<total_amount>,<bookname1>,<quantitybook1>,<subtotalbook1>,<bookname2>,<quantitybook2>,<subtotalbook2>,...
+30/04/2025 19:16:42,250327001,Delivery Fee,23.00,25.00,48.00,Mathematics Fundamentals,25.00,1,25.00
+30/04/2025 19:34:28,250327020,Delivery Fee,28.00,25.00,53.00,Mathematics Fundamentals,25.00,1,25.00
+30/04/2025 19:39:42,250327001,Delivery Fee,28.00,25.00,53.00,Mathematics Fundamentals,25.00,1,25.00
+30/04/2025 19:40:47,250327001,Delivery Fee,28.00,120.00,148.00,Mathematics Fundamentals,25.00,2,50.00,Physics Explained,35.00,2,70.00
+30/04/2025 20:29:06,250327001,Delivery Fee,28.00,25.00,53.00,Mathematics Fundamentals,25.00,1,25.00
+30/04/2025 20:34:38,250327001,Delivery Fee,28.00,25.00,53.00,Mathematics Fundamentals,25.00,1,25.00
+30/04/2025 20:51:26,250327020,Delivery Fee,28.00,230.00,258.00,Mathematics Fundamentals,25.00,1,25.00,Economics Principles,20.50,10,205.00
+01/05/2025 11:27:18,250327001,Pickup Fee,3.00,1000.00,1003.00,Mathematics Fundamentals,25.00,40,1000.00
+01/05/2025 11:38:32,250327001,Pickup Fee,3.00,350.00,353.00,Physics Explained,35.00,10,350.00
+01/05/2025 11:40:42,250327001,Pickup Fee,3.00,182.50,185.50,Chemistry Essentials,36.50,5,182.50
+01/05/2025 11:43:42,250327011,Pickup Fee,3.00,64.50,67.50,Sejarah Malaysia,21.50,3,64.50
+01/05/2025 17:38:15,250327003,Pickup Fee,3.00,152.50,155.50,Additional Mathematics,26.50,3,79.50,Superhero Adventures,15.00,3,45.00,Pride and Prejudice,14.00,2,28.00
+02/05/2025 14:45:59,250327011,Pickup Fee,3.00,575.00,578.00,Mathematics Fundamentals,25.00,23,575.00
